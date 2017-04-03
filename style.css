@@ -1,0 +1,37 @@
+body{
+  background-color:#dddddd;
+  color : #000000;
+  margin-right: auto;//ここで中央寄せを指定する。
+  margin-left : auto;
+  width:700px;
+  font-size:62.5%;
+}
+
+#header{
+  width:auto;//各要素にwidthがあったほうがいいかも。
+  height:80px;
+  background-color :#ffffff;
+  font-size:3em;
+  text-align : center;
+}
+
+#contents{
+  width:700px;
+  min-height:300px;
+  color : #000000;
+  margin-top:1.5%;
+  margin-bottom: 1.5%;
+  padding: 10px;
+  background-color :#ffffff;
+  font-size: 1.6em;
+  line-height: 1.5em;
+  border-radius: 15px;
+}
+
+#footer{
+  width: auto;
+  background-color :#ffffff;
+  color : #000;
+  font-size:1.4em;
+  text-align : center;
+}
